@@ -12,18 +12,24 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 Наша команда
 
 | Роль | Специализация |
 |------|---------------|
 | **Team Leader** | Fullstack |
-| Frontend Developer | — |
-| Backend Developer | — |
-| Telegram Bot Developer | — |
-| 3D Designer | — |
-| AI Specialist | — |
+| Frontend Developer 
+| Backend Developer 
+| Telegram Bot Developer 
+| 3D Designer 
+| AI Specialist 
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⚡ Наши направления
 
@@ -34,11 +40,13 @@
 - **3D-визуализация**
 - И другие проекты
 
+</div>
+
 ---
 
-## 🛠 Стек
-
 <div align="center">
+
+## 🛠 Стек
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,14 +60,16 @@
 
 ---
 
+<div align="center">
+
 ## 📬 Контакты
 
 **Telegram-канал:** [t.me/advizoreteam](https://t.me/advizoreteam)  
 **TikTok:** [@advizoreteam](https://www.tiktok.com/@advizoreteam)  
 **Instagram:** [@advizoreteam](https://www.instagram.com/advizoreteam/)
 
+</div>
+
 ---
 
-<div align="center">
-  <sub>© ADVIZORE TEAM</sub>
-</div>
+
