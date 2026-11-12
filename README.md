@@ -4,9 +4,10 @@
 
 **Разрабатываем сайты, Telegram-ботов, скрипты, автоматизацию бизнес-процессов, 3D-дизайн и анимации.**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/advizoreteam)
-[![TikTok](https://img.shields.io/badge/TikTok-@advizoreteam-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@advizoreteam)
-[![Instagram](https://img.shields.io/badge/Instagram-@advizoreteam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/advizoreteam/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/advizoreteam)
+[![Website](https://img.shields.io/badge/САЙТ%20КОМАНДЫ-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://advizoreteam.vercel.app/)
+[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@advizoreteam)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/advizoreteam/)
 
 </div>
 
@@ -16,14 +17,12 @@
 
 ## 👨‍💻 Наша команда
 
-| Роль | Специализация |
-|------|---------------|
-| **Team Leader** | Fullstack |
-| Frontend Developer 
-| Backend Developer 
-| Telegram Bot Developer 
-| 3D Designer 
-| AI Specialist 
+**Team Leader** · Fullstack  
+**Frontend Developer**  
+**Backend Developer**  
+**Telegram Bot Developer**  
+**3D Designer**  
+**AI Specialist**
 
 </div>
 
