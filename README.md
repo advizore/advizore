@@ -1,6 +1,6 @@
 <div align="center">
 
-# [🔥](https://github.com/advizore) ADVIZORE TEAM [🔥](https://github.com/advizore)
+# [💎](https://github.com/advizore) ADVIZORE TEAM [💎](https://github.com/advizore)
 
 **Разрабатываем сайты, Telegram-ботов, скрипты, автоматизацию бизнес-процессов, 3D-дизайн и анимации.**
 
