@@ -2,7 +2,7 @@
 
 # [🔥](https://github.com/advizore) ADVIZORE TEAM [🔥](https://github.com/advizore)
 
-**Команда разработки полного цикла**
+**Разрабатываем сайты, Telegram-ботов, скрипты, автоматизацию бизнес-процессов, 3D-дизайн и анимации.**
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/advizoreteam)
 [![TikTok](https://img.shields.io/badge/TikTok-@advizoreteam-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@advizoreteam)
